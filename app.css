@@ -1,0 +1,11 @@
+body {
+  background-image: url(./images/foodbg2.jpg);
+  background-size: cover;
+  background-repeat: repeat-y;
+  background-position: relative;
+}
+
+h3 {
+  color: rgb(88, 77, 65);
+  font-weight: bolder;
+}
